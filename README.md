@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MGBPW-Net
 Code of paper "Human Semantic Perception and Recovery for Occluded Person Re-Identification"
 
@@ -54,3 +55,6 @@ python test.py --config_file configs/DukeMTMC/vit_transreid_stride.yml MODEL.DEV
 
 
 
+=======
+# MGBPW-Net
+>>>>>>> 30ffa42 (Initial commit)
