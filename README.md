@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MGBPW-Net
 Code of paper "Enhanced Occluded Person Re-Identification through Cross-Image Occlusion Modeling and Adaptive Weighting"
 
